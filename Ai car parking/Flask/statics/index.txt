@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Front Page AI ENABLED CAR PARKING USING OPEN CV</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+<h1>AI-Enabled Car Parking System</h1>
+<p>The AI-enabled car parking system using OpenCV is a smart parking solution that leverages computer vision technology to automatically detect available parking spaces in a parking lot. 
+The system consists of a camera that captures real-time video footage of the parking lot, which is then processed by OpenCV algorithms to identify vacant parking spots. The system uses object detection and recognition techniques to identify cars in the parking lot and track their movements. 
+the AI-enabled car parking system using OpenCV is a powerful and innovative solution that leverages cutting-edge computer vision technology to transform the parking experience and enhance the efficiency and effectiveness of parking operations</p>
+</body>
+</html>

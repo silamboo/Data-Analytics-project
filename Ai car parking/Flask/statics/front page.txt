@@ -1,0 +1,34 @@
+body {
+	font-family: Arial, sans-serif;
+	background-image: url("car.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-blend-mode: saturation;
+	font-color:  white;
+	padding: 20px;
+}
+header {
+	text-align: center;
+	margin-bottom: 30px;
+	font-display: fallback;
+}
+h1 {
+	text-align: left;
+	font-size: 40px;
+	font-stretch: semi-condensed;
+	color: #333;
+	margin-top: 200px;
+}
+p{
+	font-family: sans-serif;
+	line-spacing: 2 px;
+	font-stretch: normal;
+	font-display: auto;
+	text-shadow: transparent;
+	text-align:  center;
+	margin-top: 5px;
+  margin-bottom: 5px;
+   text-align: left;
+  width: 40%;
+}
